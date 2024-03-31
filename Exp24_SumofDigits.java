@@ -1,5 +1,5 @@
 import java.util.*;
-public class Program24_SumofDigits {
+public class Exp24_SumofDigits {
     public static void main(String args[])  
     {  
     int number, digit, sum = 0;  
