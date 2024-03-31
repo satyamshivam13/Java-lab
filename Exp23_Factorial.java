@@ -1,4 +1,4 @@
-public class Program23_Factorial {
+public class Exp23_Factorial {
 
     static int factorial(int n){    
         if (n == 0)    
