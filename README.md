@@ -1,4 +1,4 @@
-# JavaProgramsSem4
+# Java_lab
 
 This repository serves as a comprehensive collection of programs developed during the Object-Oriented Programming with Java Lab Sessions at Unitedworld School of Computational Intelligence, Karnavati University. It is a valuable resource for students and educators alike, providing real-world examples of Java applications in an academic setting.
 
